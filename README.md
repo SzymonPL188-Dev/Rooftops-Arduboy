@@ -7,4 +7,4 @@ To import the hex file, download this software: [click me🎈](https://community
 
 **ABOUT THE GAME**
 
-*Rooftops* is a game where you run on ... rooftops. It has wireframe **3D** graphics.
+*Rooftops* is a game where you run on ... rooftops. It has **3D** wireframe graphics. And the game is hard. You have 3 lives and **NO** way to restore them :)
