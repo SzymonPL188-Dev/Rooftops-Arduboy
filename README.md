@@ -1,5 +1,5 @@
 # Rooftops Arduboy
-##### 1.0.0v
+##### 1.2.1v
 
 **HOW TO IMPORT HEX FILE**
 
